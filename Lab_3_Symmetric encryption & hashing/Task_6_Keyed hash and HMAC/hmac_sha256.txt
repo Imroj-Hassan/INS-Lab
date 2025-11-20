@@ -1,0 +1,1 @@
+HMAC-SHA2-256(hmac_input.txt)= 045da80584c783ec1be29d9fc8b86eb2fba46e11d8b17cbc1f66467b7195e67c

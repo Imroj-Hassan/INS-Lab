@@ -1,0 +1,1 @@
+SHA2-256(original_task7.txt)= b47cc0f104b62d4c7c30bcd68fd8e67613e287dc4ad8c310ef10cbadea9c4380

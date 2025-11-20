@@ -1,0 +1,1 @@
+HMAC-MD5(hmac_input.txt)= 78abd789fc364a98b4af60489b83adf2

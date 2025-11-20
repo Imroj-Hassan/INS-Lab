@@ -1,0 +1,1 @@
+Hello, this is my data to be hashed for CSE478 Lab.
